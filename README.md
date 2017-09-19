@@ -1,1 +1,1 @@
-In this repository, we will be creating a team website. Team members will use html, css, and hyperlinks so that views can see the information about each person. 
+In this repository, we will be creating a team website. Team members will use html, css, and hyperlinks so that viewers can see the information about each person. 
