@@ -1,0 +1,36 @@
+  body {
+  font-family: Papyrus;
+  background: #d2c9ff
+;
+  margin: 0 3em 0 3em;
+}
+
+#color_btn {
+  color: black;
+}
+
+
+img {
+  width: 100%;
+}
+
+.container {
+  height: auto;
+  display: flex;
+}
+
+.box1 {
+  width: 40%;
+  margin: 1em 0 1em 0;
+}
+
+.box2 {
+  width: 60%;
+  margin: 1em 1em 1em 3em;
+}
+
+h1 {
+  font-family: Papyrus;
+  Font-size: 40px;
+  color: #7580ff
+;
