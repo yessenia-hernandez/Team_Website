@@ -10,15 +10,6 @@
 }
 
 
-img {
-  width: 100%;
-}
-
-.container {
-  height: auto;
-  display: flex;
-}
-
 .box1 {
   width: 40%;
   margin: 1em 0 1em 0;
