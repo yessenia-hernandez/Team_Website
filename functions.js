@@ -1,8 +1,13 @@
+<<<<<<< HEAD
+=======
+hi
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -16,3 +21,5 @@
              //   var newminute = Math.ceil(minutes - (Math.floor((lastday.getTime() - today.getTime()) / 3600000) * 60));
               //document.write(birthdayCountDown("12/15/2000")); // document.write("The are " + days + " days, " + newhour + " hours, and " + newminute + " minutes untill the end of the school year");
            //</script>
+=======
+>>>>>>> origin/master
