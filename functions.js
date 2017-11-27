@@ -1,7 +1,7 @@
                 var greeting = "Ciao!-Howdy!-Greetings!-Hola!-Bonjour!-Take me to your leader!"   var array = greeting.split("-");
                 var greeting = Math.random();
 
-function
+function today(){
   var today = new Date();
   var date=  today.getDate
   var year = today.getFullYear
@@ -13,7 +13,7 @@ function
    } else if (int == 1){
        monthname = "Feburary, ";
    } else if (int == 2){
-       monthnamw = "March, ";
+       monthname = "March, ";
    } else if (int == 3){
        monthname = "April, ";
    } else if (int == 4){
@@ -28,7 +28,11 @@ function
        monthname "September, ";
    } else if (int == 9){
        monthname "Octuber, ";
-   } else if (int == 10)
+   } else if (int == 10){
+       monthname "Novemeber, ";
+   } else if (int == 11) {
+       monthname "December, ";
+   }
 
       if (int == 0) {
                 dayname = "Sunday, ";
@@ -46,11 +50,12 @@ function
                 dayname = "Saturday, ";
             }
 
-            document.write(dayname, +month + 1 + "/" + date + "/" + year);
-        </script>
+            document.write(dayname, + month + 1 + "/" + date + "/" + year);
 
 
   var lastday = new Date("02/02/2018");
+
+}
 
 
 function BirthdayCountDown(date){
