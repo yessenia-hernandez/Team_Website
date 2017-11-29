@@ -13,5 +13,6 @@ function greetings(date) {
 }
 
 function dateMessage(date) {
+    var message = "Hi";
 
 }
