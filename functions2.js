@@ -9,6 +9,7 @@ function birthdayCountDown(date){
 }
 
 function greetings(date) {
+    var greeting = "Hi";
 
 }
 
