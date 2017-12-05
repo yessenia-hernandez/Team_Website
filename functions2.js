@@ -49,7 +49,6 @@ function superiorGreeting(msg) {
 
 function dateMessage(date) {
     var message = "Hi";
-=======
 
 function dateMessage(Date) {
 
@@ -113,7 +112,6 @@ function dateMessage(Date) {
     } else {
         end = "th";}
 
->>>>>>> origin/master
 
     return ("Today is " + dayname + monthname + date + end);
 }
