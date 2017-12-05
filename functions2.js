@@ -46,10 +46,6 @@ function superiorGreeting(msg) {
 
 
 
-
-function dateMessage(date) {
-    var message = "Hi";
-
 function dateMessage(Date) {
 
     var today = new Date() ;
