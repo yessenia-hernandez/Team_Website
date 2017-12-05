@@ -10,13 +10,3 @@ function birthdayCountDown(date) {
 
     return ("My Birthday is in " + days+ " days :(");
 }
-
-function greetings(date) {
-    var greeting = "Hi";
-
-}
-
-function dateMessage(date) {
-    var message = "Hi";
-
-}
