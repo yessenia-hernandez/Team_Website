@@ -1,12 +1,10 @@
 function birthdayCountDown(date) {
-<<<<<<< HEAD
     var lastday = new Date(date);
     var today = new Date();
     var days = Math.floor((lastday.getTime() - today.getTime()) / 86400000);
 
 
     return days + " days ";
-=======
     var today = new Date();
     var myBirthday = new Date(date);
     myBirthday.setFullYear(today.getFullYear());
@@ -15,14 +13,8 @@ function birthdayCountDown(date) {
     }
     var diff = myBirthday.getTime() - today.getTime();
     var days = Math.floor(diff / (1000 * 60 * 60 * 24));
->>>>>>> origin/master
 
     return ("My Birthday is in " + days+ " days :(");
-}
-
-function greetings(date) {
-    var greeting = "Hi";
-
 }
 
 function dateMessage(Date) {
